@@ -16,7 +16,6 @@
 
 import logging
 import pickle
-import stat
 import numpy as np
 
 from bigdl.ppml.fl.nn.generated.nn_service_pb2 import *
